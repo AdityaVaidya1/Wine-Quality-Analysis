@@ -1,2 +1,2 @@
 # Wine-Quality-Analysis
-Wine quality analysis using python.
+Developed a wine quality prediction model from a dataset of 1600 records, leveraging attributes like fixed acidity, volatile acidity, citric acid, and residual sugar, etc. Conducted data pre-processing, including structure exploration, handling missing values, and utilizing data visualization techniques. Implemented a Random Forest Classifier that achieved 93.4% accuracy on testing data, establishing a robust tool for wine quality assessment based on specified features.
